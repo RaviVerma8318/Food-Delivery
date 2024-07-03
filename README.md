@@ -6,9 +6,9 @@
    **Training project (Batch-1)**
 
 - **Ravi Verma**
-  -Roll_No.22
+- Roll_No.22
 - **Aditya Tiwari**
-  -Roll_No.52
+- Roll_No.52
  ## Technologies Used 
  
   <p align="center">
